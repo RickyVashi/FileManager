@@ -1,3 +1,3 @@
 export default defineEventHandler(()=>{
-    console.log("Middleware Hitted");
+    //console.log("Middleware Hitted");
 })
